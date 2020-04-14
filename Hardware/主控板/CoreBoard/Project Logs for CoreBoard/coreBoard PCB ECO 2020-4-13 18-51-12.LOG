@@ -1,0 +1,4 @@
+Added Component: Designator=P30(XT30U-M)
+Added Pin To Net: NetName=VCC_24V_BAT Pin=P30-1
+Added Pin To Net: NetName=GND Pin=P30-2
+Added Member To Class: ClassName=Interface2 Member=Component P30 XT30U_M

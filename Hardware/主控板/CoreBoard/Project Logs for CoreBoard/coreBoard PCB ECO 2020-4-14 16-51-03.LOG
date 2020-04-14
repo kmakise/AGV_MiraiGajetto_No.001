@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=PF14 Pin=P28-12
+Removed Pin From Net: NetName=PF15 Pin=P28-14
+Removed Pin From Net: NetName=PF12 Pin=P28-18
+Removed Pin From Net: NetName=PF11 Pin=P28-20
+Added Pin To Net: NetName=PF11 Pin=P28-12
+Added Pin To Net: NetName=PF12 Pin=P28-14
+Added Pin To Net: NetName=PF14 Pin=P28-18
+Added Pin To Net: NetName=PF15 Pin=P28-20
+Added Room: Name=Interface1
+Added Room: Name=Interface2
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sensor

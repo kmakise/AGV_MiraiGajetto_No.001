@@ -1,0 +1,139 @@
+Change Component Footprint: Designator=C1 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C2 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C3 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C4 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C31 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C32 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C33 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C34 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C35 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C36 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C37 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C38 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C39 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C40 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C41 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C42 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C43 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C44 Old Footprint=C 0805_M New Footprint=C 0603_L
+Change Component Footprint: Designator=C58 Old Footprint=C 0805_M New Footprint=C 0603_L
+Added Member To Class: ClassName=Power Member=Component C1 0805
+Added Member To Class: ClassName=Power Member=Component C2 0805
+Added Member To Class: ClassName=Power Member=Component C3 0805
+Added Member To Class: ClassName=Power Member=Component C4 0805
+Added Member To Class: ClassName=MCU Member=Component C5 0805
+Added Member To Class: ClassName=MCU Member=Component C6 0805
+Added Member To Class: ClassName=MCU Member=Component C7 0805
+Added Member To Class: ClassName=MCU Member=Component C8 0805
+Added Member To Class: ClassName=MCU Member=Component C9 0805
+Added Member To Class: ClassName=MCU Member=Component C10 0805
+Added Member To Class: ClassName=MCU Member=Component C11 0805
+Added Member To Class: ClassName=Sensor Member=Component C20 0805
+Added Member To Class: ClassName=Sensor Member=Component C21 0805
+Added Member To Class: ClassName=Sensor Member=Component C22 0805
+Added Member To Class: ClassName=Sensor Member=Component C23 0603
+Added Member To Class: ClassName=Sensor Member=Component C24 0805
+Added Member To Class: ClassName=Sensor Member=Component C25 0805
+Added Member To Class: ClassName=Sensor Member=Component C26 0603
+Added Member To Class: ClassName=Sensor Member=Component C27 0805
+Added Member To Class: ClassName=Sensor Member=Component C28 0805
+Added Member To Class: ClassName=Sensor Member=Component C29 0805
+Added Member To Class: ClassName=Sensor Member=Component C30 0805
+Added Member To Class: ClassName=Power Member=Component C31 0805
+Added Member To Class: ClassName=Power Member=Component C32 0805
+Added Member To Class: ClassName=Power Member=Component C33 0805
+Added Member To Class: ClassName=Power Member=Component C34 0805
+Added Member To Class: ClassName=Power Member=Component C35 0805
+Added Member To Class: ClassName=Power Member=Component C36 0805
+Added Member To Class: ClassName=Power Member=Component C37 0805
+Added Member To Class: ClassName=Power Member=Component C38 0805
+Added Member To Class: ClassName=Power Member=Component C39 0805
+Added Member To Class: ClassName=Power Member=Component C40 0805
+Added Member To Class: ClassName=Power Member=Component C41 0805
+Added Member To Class: ClassName=Power Member=Component C42 0805
+Added Member To Class: ClassName=Power Member=Component C43 0805
+Added Member To Class: ClassName=Power Member=Component C44 0805
+Added Member To Class: ClassName=Power Member=Component C45 0805
+Added Member To Class: ClassName=Power Member=Component C46 0805
+Added Member To Class: ClassName=MCU Member=Component C47 0805
+Added Member To Class: ClassName=Power Member=Component C58 0805
+Added Member To Class: ClassName=Sensor Member=Component C86 0805
+Added Member To Class: ClassName=Power Member=Component D1 D 1N4148
+Added Member To Class: ClassName=Power Member=Component D6 D 1N4148
+Added Member To Class: ClassName=Interface2 Member=Component D11 TVS
+Added Member To Class: ClassName=Interface1 Member=Component D15 TVS
+Added Member To Class: ClassName=Interface1 Member=Component D16 TVS
+Added Member To Class: ClassName=Interface1 Member=Component D19 TVS
+Added Member To Class: ClassName=Interface1 Member=Component D20 TVS
+Added Member To Class: ClassName=Interface1 Member=Component D35 TVS
+Added Member To Class: ClassName=Interface1 Member=Component D36 TVS
+Added Member To Class: ClassName=Interface2 Member=Component DS1 LED
+Added Member To Class: ClassName=Interface2 Member=Component DS2 LED
+Added Member To Class: ClassName=Interface2 Member=Component DS3 LED
+Added Member To Class: ClassName=Interface2 Member=Component DS4 LED
+Added Member To Class: ClassName=Interface2 Member=Component DS5 LED
+Added Member To Class: ClassName=Power Member=Component L1 0805
+Added Member To Class: ClassName=Sensor Member=Component L2 0805
+Added Member To Class: ClassName=Sensor Member=Component L3 0805
+Added Member To Class: ClassName=Sensor Member=Component L4 0805
+Added Member To Class: ClassName=Power Member=Component L8 0805
+Added Member To Class: ClassName=Power Member=Component P1 Header 2
+Added Member To Class: ClassName=Interface2 Member=Component P3 Header 2
+Added Member To Class: ClassName=Interface1 Member=Component P7 USART2
+Added Member To Class: ClassName=Interface1 Member=Component P9 USART3
+Added Member To Class: ClassName=Interface1 Member=Component P22 USART6
+Added Member To Class: ClassName=Sensor Member=Component Q1 YJL3400A
+Added Member To Class: ClassName=Power Member=Component R1 0805
+Added Member To Class: ClassName=MCU Member=Component R2 0805
+Added Member To Class: ClassName=MCU Member=Component R3 0805
+Added Member To Class: ClassName=MCU Member=Component R4 0805
+Added Member To Class: ClassName=Interface1 Member=Component R8 0805
+Added Member To Class: ClassName=Interface1 Member=Component R9 0805
+Added Member To Class: ClassName=Sensor Member=Component R17 0805
+Added Member To Class: ClassName=Sensor Member=Component R18 0805
+Added Member To Class: ClassName=Sensor Member=Component R19 0805
+Added Member To Class: ClassName=Sensor Member=Component R20 0805
+Added Member To Class: ClassName=Sensor Member=Component R21 0805
+Added Member To Class: ClassName=Sensor Member=Component R22 0805
+Added Member To Class: ClassName=Sensor Member=Component R23 0805
+Added Member To Class: ClassName=Sensor Member=Component R24 0805
+Added Member To Class: ClassName=Sensor Member=Component R25 0805
+Added Member To Class: ClassName=Sensor Member=Component R26 0805
+Added Member To Class: ClassName=Sensor Member=Component R27 0805
+Added Member To Class: ClassName=Sensor Member=Component R28 0805
+Added Member To Class: ClassName=Sensor Member=Component R29 0805
+Added Member To Class: ClassName=Sensor Member=Component R30 0805
+Added Member To Class: ClassName=Sensor Member=Component R31 0805
+Added Member To Class: ClassName=MCU Member=Component R36 0805
+Added Member To Class: ClassName=MCU Member=Component R37 0805
+Added Member To Class: ClassName=MCU Member=Component R38 0805
+Added Member To Class: ClassName=MCU Member=Component R39 0805
+Added Member To Class: ClassName=MCU Member=Component R40 0805
+Added Member To Class: ClassName=MCU Member=Component R41 0805
+Added Member To Class: ClassName=MCU Member=Component R42 0805
+Added Member To Class: ClassName=Sensor Member=Component R87 0805
+Added Member To Class: ClassName=Sensor Member=Component R88 0805
+Added Member To Class: ClassName=Interface2 Member=Component R89 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R90 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R91 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R92 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R93 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R94 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R95 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R96 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R97 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R98 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R99 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R100 RES2
+Added Member To Class: ClassName=Interface2 Member=Component R101 RES2
+Added Member To Class: ClassName=MCU Member=Component S1 SW
+Added Member To Class: ClassName=Sensor Member=Component U4 BMI088
+Added Member To Class: ClassName=Sensor Member=Component U5 IST8310
+Added Member To Class: ClassName=Sensor Member=Component U10 BMP180
+Added Member To Class: ClassName=MCU Member=Component X1 25M
+Added Member To Class: ClassName=MCU Member=Component X2 32.768KHz
+Added Room: Name=Interface1
+Added Room: Name=Interface2
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sensor

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=PF15 Pin=P28-2
+Removed Pin From Net: NetName=PF14 Pin=P28-4
+Removed Pin From Net: NetName=PF13 Pin=P28-6
+Removed Pin From Net: NetName=PF12 Pin=P28-8
+Removed Pin From Net: NetName=PF11 Pin=P28-10
+Removed Pin From Net: NetName=PF10 Pin=P28-12
+Removed Pin From Net: NetName=PF9 Pin=P28-14
+Removed Pin From Net: NetName=PF8 Pin=P28-16
+Removed Pin From Net: NetName=GND Pin=P28-18
+Removed Pin From Net: NetName=GND Pin=P28-20
+Added Pin To Net: NetName=GND Pin=P28-2
+Added Pin To Net: NetName=GND Pin=P28-4
+Added Pin To Net: NetName=PF8 Pin=P28-6
+Added Pin To Net: NetName=PF9 Pin=P28-8
+Added Pin To Net: NetName=PF10 Pin=P28-10
+Added Pin To Net: NetName=PF14 Pin=P28-12
+Added Pin To Net: NetName=PF15 Pin=P28-14
+Added Pin To Net: NetName=PF13 Pin=P28-16
+Added Pin To Net: NetName=PF12 Pin=P28-18
+Added Pin To Net: NetName=PF11 Pin=P28-20
+Added Room: Name=Interface1
+Added Room: Name=Interface2
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sensor

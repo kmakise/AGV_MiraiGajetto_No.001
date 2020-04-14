@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=L1 Old Footprint=R 0805_L New Footprint=R 0402_L
+Change Component Footprint: Designator=L8 Old Footprint=R 0805_L New Footprint=R 0402_L
+Change Component Footprint: Designator=R1 Old Footprint=R 0805_L New Footprint=R 0402_L
+Change Component Footprint: Designator=D1 Old Footprint=SOD-123 New Footprint=SOD-523

@@ -1,0 +1,46 @@
+Change Component Footprint: Designator=C10 Old Footprint=C 0603_L New Footprint=C 0603_M
+Added Member To Class: ClassName=Sensor Member=Component C20 0805
+Added Member To Class: ClassName=Sensor Member=Component C21 0805
+Added Member To Class: ClassName=Sensor Member=Component C22 0805
+Added Member To Class: ClassName=Sensor Member=Component C23 0603
+Added Member To Class: ClassName=Sensor Member=Component C24 0805
+Added Member To Class: ClassName=Sensor Member=Component C25 0805
+Added Member To Class: ClassName=Sensor Member=Component C26 0603
+Added Member To Class: ClassName=Sensor Member=Component C27 0805
+Added Member To Class: ClassName=Sensor Member=Component C28 0805
+Added Member To Class: ClassName=Sensor Member=Component C29 0805
+Added Member To Class: ClassName=Sensor Member=Component C30 0805
+Added Member To Class: ClassName=Sensor Member=Component C86 0805
+Added Member To Class: ClassName=Sensor Member=Component L2 0805
+Added Member To Class: ClassName=Sensor Member=Component L3 0805
+Added Member To Class: ClassName=Sensor Member=Component L4 0805
+Added Member To Class: ClassName=Sensor Member=Component Q1 YJL3400A
+Added Member To Class: ClassName=Sensor Member=Component R17 0805
+Added Member To Class: ClassName=Sensor Member=Component R18 0805
+Added Member To Class: ClassName=Sensor Member=Component R19 0805
+Added Member To Class: ClassName=Sensor Member=Component R20 0805
+Added Member To Class: ClassName=Sensor Member=Component R21 0805
+Added Member To Class: ClassName=Sensor Member=Component R22 0805
+Added Member To Class: ClassName=Sensor Member=Component R23 0805
+Added Member To Class: ClassName=Sensor Member=Component R24 0805
+Added Member To Class: ClassName=Sensor Member=Component R25 0805
+Added Member To Class: ClassName=Sensor Member=Component R26 0805
+Added Member To Class: ClassName=Sensor Member=Component R27 0805
+Added Member To Class: ClassName=Sensor Member=Component R28 0805
+Added Member To Class: ClassName=Sensor Member=Component R29 0805
+Added Member To Class: ClassName=Sensor Member=Component R30 0805
+Added Member To Class: ClassName=Sensor Member=Component R31 0805
+Added Member To Class: ClassName=MCU Member=Component R36 0805
+Added Member To Class: ClassName=MCU Member=Component R37 0805
+Added Member To Class: ClassName=MCU Member=Component R38 0805
+Added Member To Class: ClassName=MCU Member=Component R39 0805
+Added Member To Class: ClassName=Sensor Member=Component R87 0805
+Added Member To Class: ClassName=Sensor Member=Component R88 0805
+Added Member To Class: ClassName=Sensor Member=Component U4 BMI088
+Added Member To Class: ClassName=Sensor Member=Component U5 IST8310
+Added Member To Class: ClassName=Sensor Member=Component U10 BMP180
+Added Room: Name=Interface1
+Added Room: Name=Interface2
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sensor
