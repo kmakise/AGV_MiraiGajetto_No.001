@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=L4-1
+Added Member To Class: ClassName=Power Member=Component U6 MP2482
+Added Member To Class: ClassName=Power Member=Component U7 MP2482
+Added Room: Name=Interface1
+Added Room: Name=Interface2
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sensor
