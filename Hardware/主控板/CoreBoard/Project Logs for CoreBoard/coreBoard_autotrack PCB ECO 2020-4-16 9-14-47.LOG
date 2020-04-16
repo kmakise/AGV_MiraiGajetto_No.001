@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=USBC1 Old Footprint=USB-TYPE-C_16PIN-MALE-TYPE-C-31-M-12 New Footprint=TYPE-C-USB-17
+Added Room: Name=Interface1
+Added Room: Name=Interface2
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sensor

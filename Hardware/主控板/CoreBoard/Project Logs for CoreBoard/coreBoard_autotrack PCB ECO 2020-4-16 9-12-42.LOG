@@ -1,0 +1,30 @@
+Change Component Comment : Designator=P6 Old Comment=USART1 New Comment=CAN1
+Change Component Comment : Designator=P11 Old Comment=USART1 New Comment=CAN2
+Added Component: Designator=USBC1(USB-TYPE-C_16PIN-MALE-TYPE-C-31-M-12)
+Added Pin To Net: NetName=GND Pin=USBC1-0
+Added Pin To Net: NetName=GND Pin=USBC1-0
+Added Pin To Net: NetName=GND Pin=USBC1-0
+Added Pin To Net: NetName=GND Pin=USBC1-0
+Added Pin To Net: NetName=GND Pin=USBC1-A1
+Added Pin To Net: NetName=VBUS Pin=USBC1-A4
+Added Pin To Net: NetName=CC Pin=USBC1-A5
+Added Pin To Net: NetName=DP Pin=USBC1-A6
+Added Pin To Net: NetName=DN Pin=USBC1-A7
+Added Pin To Net: NetName=SBU Pin=USBC1-A8
+Added Pin To Net: NetName=VBUS Pin=USBC1-A9
+Added Pin To Net: NetName=GND Pin=USBC1-A12
+Added Pin To Net: NetName=GND Pin=USBC1-B1
+Added Pin To Net: NetName=VBUS Pin=USBC1-B4
+Added Pin To Net: NetName=CC Pin=USBC1-B5
+Added Pin To Net: NetName=DP Pin=USBC1-B6
+Added Pin To Net: NetName=DN Pin=USBC1-B7
+Added Pin To Net: NetName=SBU Pin=USBC1-B8
+Added Pin To Net: NetName=VBUS Pin=USBC1-B9
+Added Pin To Net: NetName=GND Pin=USBC1-B12
+Added Member To Class: ClassName=Sensor Member=Component U10 BMP180
+Added Member To Class: ClassName=Interface1 Member=Component USBC1 TYPE-C-31-M-12
+Added Room: Name=Interface1
+Added Room: Name=Interface2
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sensor
