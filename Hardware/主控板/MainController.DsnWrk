@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=CoreBoard\CoreBoard.PrjPcb
+[Project2]
+ProjectPath=ESC_1\ESC_1.PrjPcb
