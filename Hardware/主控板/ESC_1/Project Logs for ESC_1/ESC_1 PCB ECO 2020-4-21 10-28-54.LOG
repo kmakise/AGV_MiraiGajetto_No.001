@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=R8 Old Footprint=R 0805_L New Footprint=R 1206_L
+Change Component Footprint: Designator=R9 Old Footprint=R 0805_L New Footprint=R 1206_L
+Change Component Footprint: Designator=R18 Old Footprint=R 0805_L New Footprint=R 1206_L
+Change Component Footprint: Designator=R19 Old Footprint=R 0805_L New Footprint=R 1206_L
+Change Component Footprint: Designator=R28 Old Footprint=R 0805_L New Footprint=R 1206_L
+Change Component Footprint: Designator=R29 Old Footprint=R 0805_L New Footprint=R 1206_L
+Change Component Footprint: Designator=R38 Old Footprint=R 0805_L New Footprint=R 1206_L
+Change Component Footprint: Designator=R39 Old Footprint=R 0805_L New Footprint=R 1206_L
+Added Room: Name=Driver
