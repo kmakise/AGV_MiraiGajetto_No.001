@@ -1,0 +1,35 @@
+Move Component(s) Origin to Grid
+Filename     : E:\3C_项目工程\2020-未来道具001\AGV_MiraiGajetto_No.001\Hardware\主控板\ESC_2\H_Bridge.PcbDoc
+Date         : 2020/4/23
+Time         : 15:38:48
+Time Elapsed : 00:00:00
+
+
+    SMT Small Component R16-0805 (1285mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R15-0805 (595mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R14-0805 (2195mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R13-0805 (1975mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R12-0805 (3085mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R11-0805 (2415mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R10-0805 (4135mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R9-0805 (3945mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R8-0805 (5185mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R7-0805 (4525mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R6-0805 (6040mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R5-0805 (5850mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R4-0805 (6895mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R3-0805 (6230mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R2-0805 (7905mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component R1-0805 (7710mil,3830mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component Q8-IPT015N10N5 (955mil,3595mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component Q7-IPT015N10N5 (1640mil,3595mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component Q6-IPT015N10N5 (2755mil,3595mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component Q5-IPT015N10N5 (3440mil,3595mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component Q4-IPT015N10N5 (4855mil,3595mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component Q3-IPT015N10N5 (5520mil,3595mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component Q2-IPT015N10N5 (6565mil,3595mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    SMT Small Component Q1-IPT015N10N5 (7225mil,3595mil) on Top Layer - Component origin is already ON grid. - Component pads are OFF grid. No action taken.
+    Small Component P3-Header 2 (3755mil,3765mil) on Top Layer - Component origin is already ON grid.
+    SIP Component P2-Header 4 (4340mil,3665mil) on Top Layer - Component origin is already ON grid.
+    SIP Component P1-Header 4 (7535mil,3665mil) on Top Layer - Component origin is already ON grid.
+count : 27

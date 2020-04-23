@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=R3-2
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=GND Pin=R33-2
+Removed Pin From Net: NetName=GND Pin=R34-2
+Added Pin To Net: NetName=M1_HA Pin=R3-2
+Added Pin To Net: NetName=M1_HB Pin=R4-2
+Added Pin To Net: NetName=M2_HA Pin=R13-2
+Added Pin To Net: NetName=M2_HB Pin=R14-2
+Added Pin To Net: NetName=M3_HA Pin=R23-2
+Added Pin To Net: NetName=M3_HB Pin=R24-2
+Added Pin To Net: NetName=M4_HA Pin=R33-2
+Added Pin To Net: NetName=M4_HB Pin=R34-2
+Added Room: Name=Driver
