@@ -1,36 +1,36 @@
 Board Information Report
 Filename     : E:\3C_项目工程\2020-未来道具001\AGV_MiraiGajetto_No.001\Hardware\主控板\CoreBoard\coreBoard_autotrack.PcbDoc
-Date         : 2020/4/16
-Time         : 10:16:54
+Date         : 2020/5/2
+Time         : 13:26:26
 Time Elapsed : 00:00:01
 
 General
     Board Size, 99.949mmx98.806mm
-    Components on board, 296
+    Components on board, 297
 count : 2
 
 Routing Information
     Routing completion, 100.00%
-    Connections, 732
-    Connections routed, 732
+    Connections, 733
+    Connections routed, 733
     Connections remaining, 0
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 586, 0, 1816, 2, 0, 39, 0
-    Bottom Layer, 0, 228, 0, 1467, 2, 0, 24, 0
+    Top Layer, 0, 586, 0, 1828, 2, 0, 47, 0
+    Bottom Layer, 0, 228, 0, 1482, 2, 0, 25, 0
     Mechanical 1, 2, 0, 0, 0, 0, 0, 0, 20
     Mechanical 4, 8, 0, 0, 32, 0, 0, 0, 0
-    Mechanical 8, 0, 0, 0, 0, 0, 0, 0, 13
+    Mechanical 8, 0, 0, 0, 0, 0, 0, 0, 14
     Mechanical 13, 8, 0, 0, 31, 0, 0, 0, 360
     Mechanical 15, 267, 0, 0, 578, 0, 0, 0, 0
     Mechanical 16, 0, 0, 0, 24, 0, 0, 0, 0
-    Multi-Layer, 0, 192, 612, 0, 0, 0, 3, 0
+    Multi-Layer, 0, 192, 626, 0, 0, 0, 3, 0
     Top Paste, 0, 4, 0, 0, 0, 0, 9, 0
-    Top Overlay, 41, 0, 0, 1292, 428, 0, 0, 0
+    Top Overlay, 41, 0, 0, 1272, 428, 0, 0, 0
     Top Solder, 0, 0, 0, 0, 2, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 2, 0, 0, 0
-    Bottom Overlay, 2, 0, 0, 902, 274, 35, 0, 0
+    Bottom Overlay, 2, 0, 0, 12109, 276, 35, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 40, 0, 0, 0, 0
@@ -38,12 +38,12 @@ Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
 count : 18
 
 Drill Pairs, Vias
-    Top Layer - Bottom Layer, 612
+    Top Layer - Bottom Layer, 626
 count : 1
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Layer, 9.638, 6217.8, 66%
-    Bottom Layer, 9.489, 6122.235, 65%
+    Top Layer, 10.304, 6647.422, 70%
+    Bottom Layer, 10.697, 6901.185, 73%
 count : 2
 
 Non-Plated Hole Size, Pads, Vias
@@ -52,7 +52,7 @@ count : 1
 
 Plated Hole Size, Pads, Vias
     0mm, 811, 0
-    0.3mm, 0, 590
+    0.3mm, 0, 604
     0.6mm, 2, 0
     0.7mm, 12, 3
     0.7112mm, 0, 19
@@ -86,7 +86,7 @@ count : 0
 Top Layer Annular Ring Size, Count
     -3mm, 4
     0mm, 2
-    0.3mm, 590
+    0.3mm, 604
     0.4mm, 4
     0.42mm, 2
     0.5mm, 3
@@ -108,7 +108,7 @@ count : 20
 
 Mid Layer Annular Ring Size, Count
     0mm, 2
-    0.3mm, 590
+    0.3mm, 604
     0.4mm, 4
     0.42mm, 2
     0.5mm, 3
@@ -131,7 +131,7 @@ count : 20
 
 Bottom Layer Annular Ring Size, Count
     0mm, 2
-    0.3mm, 590
+    0.3mm, 604
     0.4mm, 4
     0.42mm, 2
     0.5mm, 3
@@ -177,29 +177,29 @@ Pad Relief Entries, Count
 count : 1
 
 Via Solder Mask, Count
-    0.1016mm, 612
+    0.1016mm, 626
 count : 1
 
 Via Pwr/Gnd Expansion, Count
-    0mm, 612
+    0mm, 626
 count : 1
 
 Track Width, Count
-    0.0254mm, 56
+    0.0254mm, 11263
     0.05mm, 526
     0.1mm, 52
-    0.127mm, 2042
+    0.127mm, 2057
     0.129mm, 4
     0.15mm, 4
     0.1524mm, 730
     0.2mm, 181
     0.2032mm, 899
-    0.254mm, 837
-    0.3mm, 90
+    0.254mm, 856
+    0.3mm, 89
     0.3048mm, 1
     0.381mm, 12
-    0.5mm, 436
-    1mm, 123
+    0.5mm, 411
+    1mm, 122
     2mm, 189
 count : 16
 
@@ -254,7 +254,7 @@ count : 7
 
 Text Height, Count
     0.5mm, 591
-    1.524mm, 8
+    1.524mm, 10
     2mm, 87
     3.81mm, 23
     4mm, 1
@@ -262,13 +262,12 @@ count : 5
 
 Text Width, Count
     0.1524mm, 7
-    0.254mm, 703
+    0.254mm, 705
 count : 2
 
 Net Track Width, Count
-    0.127mm, 243
-    0.254mm, 1
-count : 2
+    0.127mm, 244
+count : 1
 
 Net Via Size, Count
     0.6mm, 244
